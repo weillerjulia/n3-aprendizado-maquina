@@ -1,0 +1,12 @@
+variavel,queda_auc_pr
+age,0.039337
+campaign,0.007002
+previous,0.008306
+job,0.009896
+marital,0.000316
+education,0.002564
+default,0.009358
+housing,0.000049
+loan,-0.000069
+contact,0.025365
+poutcome,0.152311

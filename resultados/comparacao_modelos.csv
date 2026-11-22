@@ -1,0 +1,6 @@
+modelo,auc_pr,desvio,auc_roc,brier,parametros
+Gradient Boosting,0.368655,0.014044,0.735930,0.085614,"{""modelo__max_leaf_nodes"": 7}"
+Random Forest,0.367835,0.014652,0.735339,0.085814,"{""modelo__max_depth"": 10}"
+Regressão Logística,0.352575,0.016640,0.729143,0.086769,"{""modelo__C"": 0.1}"
+Árvore de Decisão,0.317253,0.012874,0.712773,0.086760,"{""modelo__max_depth"": 6}"
+Referência (taxa média),0.112659,0.000053,0.500000,0.099967,{}
