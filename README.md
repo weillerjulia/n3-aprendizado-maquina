@@ -4,7 +4,7 @@
 
 Projeto N3 · Aprendizado de Máquina · Prof. Fabiola Pinho Magalhães
 
-**Integrantes:** Miguel, Julia, Ana Olska, Ana Paula e Eduardo
+**Integrantes:** Miguel, Julia, Ana Olska e Ana Paula
 
 ## Introdução
 
@@ -148,16 +148,6 @@ A interface recebe os dados de um cliente e devolve a chance estimada, a priorid
 ## Considerações finais
 
 O projeto mostra que é possível melhorar a ordem das ligações apenas com informações conhecidas antes do contato, chegando a mais que o dobro de conversão na fila prioritária dentro do período estudado. O resultado dependeu tanto do algoritmo quanto das decisões sobre os dados: evitar vazamento, escolher métricas adequadas ao desbalanceamento, manter probabilidades interpretáveis e analisar quem é prejudicado pelos erros. O teste temporal mostra o principal limite da solução. Como continuidade, propomos dados recentes, recalibração periódica e um experimento controlado com a equipe de atendimento.
-
-## Contribuição de cada integrante
-
-| Integrante | Contribuição |
-|---|---|
-| Miguel | A preencher |
-| Julia | A preencher |
-| Ana Olska | A preencher |
-| Ana Paula | A preencher |
-| Eduardo | A preencher |
 
 ## Origem do projeto
 
