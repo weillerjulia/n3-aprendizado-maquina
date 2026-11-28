@@ -66,7 +66,7 @@ testes/                 testes automáticos
 
 ## Dados
 
-[Bank Marketing](https://doi.org/10.24432/C5K306), do UCI Machine Learning Repository, arquivo `bank-additional-full.csv`, licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). São 41.188 contatos e 20 atributos de um banco português, de maio de 2008 a novembro de 2010. O alvo `y` indica se o cliente contratou.
+Bank Marketing, do UCI Machine Learning Repository (Moro; Rita; Cortez, 2014), arquivo `bank-additional-full.csv`, licença CC BY 4.0. São 41.188 contatos e 20 atributos de um banco português, de maio de 2008 a novembro de 2010. O alvo `y` indica se o cliente contratou.
 
 ## Conceitos utilizados
 
