@@ -59,7 +59,7 @@ for chave, valor in PADRAO.items():
 pacote = obter_modelo()
 resumo, comparacao = obter_resultados()
 
-st.title("📞 Quem devemos contatar primeiro?")
+st.title("📞 Priorização de contatos em telemarketing bancário")
 st.caption("Estima a chance de um cliente contratar um depósito a prazo, antes da ligação.")
 aba_prever, aba_modelo = st.tabs(["Simular cliente", "Sobre o modelo"])
 
